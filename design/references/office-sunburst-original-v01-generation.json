@@ -1,0 +1,55 @@
+{
+  "provider": "Higgsfield",
+  "requestedModel": "gpt_image_2_5",
+  "variant": "sunburst",
+  "jobId": "2ce2ba9d-0721-48e8-8c73-3859a563535b",
+  "estimatedCreditsExact": 2.75,
+  "params": {
+    "model": "gpt_image_2_5",
+    "variant": "sunburst",
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "background": "opaque",
+    "medias": [
+      {
+        "role": "image",
+        "value": "6a9c1f86-a052-430c-af84-9be8067d7af7"
+      },
+      {
+        "role": "image",
+        "value": "0fc9f986-a821-4a16-bd11-96cd5e9c62dc"
+      },
+      {
+        "role": "image",
+        "value": "bab9f5a7-00df-4175-8eba-a550e85e3b20"
+      },
+      {
+        "role": "image",
+        "value": "806bd8c2-a490-4d09-9754-3654a46dd852"
+      },
+      {
+        "role": "image",
+        "value": "a232695c-e7b1-45f8-bbd4-59f690f38549"
+      },
+      {
+        "role": "image",
+        "value": "ea87388e-d01d-4359-b42d-5cf621de6d49"
+      },
+      {
+        "role": "image",
+        "value": "3d61d999-3d22-4dd9-8b13-5c89dde269c3"
+      },
+      {
+        "role": "image",
+        "value": "5dd22f03-9925-4a65-ba21-5341c0a438fb"
+      }
+    ],
+    "prompt": "CHARACTER IDENTITY IS THE HIGHEST PRIORITY. The eight supplied images are the ORIGINAL approved character portraits, not loose inspiration. Reproduce their facial designs and costumes faithfully as if the original character artist drew new poses. Do not redesign, humanize, beautify, replace, merge or homogenize them. Keep their exact eye shapes and spacing, face shape, nose and mouth, skin/fur colors, hood silhouette, hairstyle, costume features, accessories and distinctive proportions. Match the simplified bold outlined cartoon visual language of these portraits; extend bodies only as necessary for work poses. Do not turn hooded characters into literal animals. Preserve any original emblem in their clothing only as shown in their reference, not an invented replacement.\nREFERENCE ORDER: 1 CEDRIC, blue crystalline icy character with its exact annoyed face and angular silhouette; 2 CAROL, pink round face and distinctive pale cyan bubbly hood, exactly its reference, NOT a generic pointed mushroom hat; 3 JASON, charcoal round face and large eyes in the orange hood with its propeller, exactly its reference; 4 IRENE, original pink cartoon face and iridescent rainbow bubble hood, same eyes and face, NOT a human girl in a spacesuit; 5 MADAKS, exact black cat-ear hood, pale face and eyes, BLACK MASK COVERING THE LOWER FACE with nose/eyes visible, blue drawstrings, NOT an eye-mask superhero; 6 TOKO, exact charcoal face inside gray spiky hedgehog HOOD, red nose, single little fang, red scarf and windup key, NOT a realistic hedgehog or long animal muzzle; 7 SHINNY, exact cheerful blond face with luminous golden eyes inside a golden hooded cape, golden halo, NOT a generic angel boy, do not add wings; 8 DUAN, exact charcoal face, blond fringe and expressive eyes inside orange-yellow bull HOOD with cream horns, NOT a literal cow head. Exactly eight distinct employees, each once. Face fidelity matters more than extra decor.\nInvent a completely NEW beautiful office illustration from scratch. No prior office image has been supplied. A sophisticated cozy creative research studio named FLAP COMPANY, normal believable architecture, warm wood floor and desks, lavender walls, purple #5533FF upholstered chairs, small electric lime #DAFF00 accents, soft amber lamps, leafy plants, bookshelves, large sunset city windows, glass meeting room, lounge nook. An impressive immersive wide 16:9 composition with a slightly elevated three-quarter interior camera, welcoming spatial depth, softly painted environmental lighting, refined clean contours. Rich but deliberate detail, clear walking space. Simple readable 'FLAP COMPANY' wordmark on a wall plaque; no invented company emblem. Office concept only, no website UI, labels, cards, captions or interface elements.\nArrange the eight characters freely in a fresh layout, but keep all faces visible, recognizable and comparable in scale, predominantly front three-quarter views close to the original portraits. One or two may stand or discuss, others work naturally at separate coherent workstations with a laptop, tablet, paper or notebook. Make furniture fit their compact mascot bodies: characters behind their own rectangular desks, desk in front of torso, arms above tabletop, knees beneath, chair back behind the spine, seat supports pelvis, simple distinct wheels/feet, straight desk edges and supports, convincing floor contact. No side-facing twisted seated bodies, no extra limbs or floating chairs. Include Irene at a properly aligned workstation facing three-quarter toward camera; do not isolate or distort her pose. Keep important faces away from image edges and don't obscure them behind monitors/plants. Calm darker area near upper left can accommodate a future website heading. Deliver one unified professional illustration, ORIGINAL ENVIRONMENT WITH FAITHFUL UNCHANGED CHARACTER DESIGNS."
+  },
+  "status": "completed-concept-not-integrated",
+  "reportedCompletionModel": "gpt_image_2_5",
+  "sourcePath": "design/references/office-sunburst-original-v01.png",
+  "referencesNote": "Only the eight original avatars; no prior office artwork."
+}

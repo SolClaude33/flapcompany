@@ -1,0 +1,52 @@
+{
+  "provider": "Higgsfield",
+  "requestedModel": "nano_banana_pro",
+  "jobId": "e964180b-bc31-4b41-87d4-e77a59360d64",
+  "estimatedCreditsExact": 2,
+  "params": {
+    "model": "nano_banana_pro",
+    "resolution": "2k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "prompt": "The ONLY eight reference images are ORIGINAL CHARACTER PORTRAITS, in this order: 1 Cedric, 2 Carol, 3 Jason, 4 Irene, 5 Madaks, 6 Toko, 7 Shinny, 8 Duan. Preserve their exact facial designs, distinctive costumes, colors and accessories. Expand them into natural full-body working poses. There is NO office reference: INVENT a fresh office concept and composition entirely from scratch. Do not copy the backgrounds of the portraits into the room.\n\nCreate a completely ORIGINAL concept illustration from scratch for FLAP COMPANY: an impressive, welcoming creative research studio inhabited by eight distinct illustrated mascot employees. Wide 16:9 editorial illustration, refined hand-drawn 2D cartoon art with expressive faces, confident clean ink outlines, richly painted environmental detail, warm light and a carefully designed composition. A normal, believable modern office, not a building shaped like a logo, not a dollhouse cutaway, not photorealistic or a plastic 3D render. Elevated three-quarter interior camera looking across the whole workplace, comfortably inside the room. Design the room and arrangement freely: generous walking aisles, coherent separated desks, glass meeting room, lounge corner, bookshelves, large city windows at sunset transitioning into violet evening. Warm honey wood, deep plum shadows, lavender walls, vivid purple #5533FF furniture, small electric lime #DAFF00 accents, amber pendant lights, leafy plants, purposeful office objects. Beautiful depth and light, restrained visual hierarchy, clear silhouettes rather than indiscriminate clutter. Wall sign with simple readable text 'FLAP COMPANY', no invented pictorial logo. This is the office artwork only, no website navigation, buttons, cards, overlays or UI.\nExactly EIGHT employees, each a unique small stylized illustrated character with comparable scale. Invent natural working poses but preserve these described identities: CEDRIC: grumpy blue ice-crystal mountain mascot with angular translucent icy hood, white face and dark expressive eyes, working in the meeting room. CAROL: smiling pink round-faced creature wearing a pale cyan bubbly mushroom-like hood and white fluffy outfit. JASON: dark charcoal face, big white eyes, warm orange creature hoodie with little red propeller on top, reviewing a paper. IRENE: pink round face with large expressive eyes inside a luminous pearlescent rainbow bubble hood, matching iridescent outfit, using a tablet. MADAKS: pale face and large dark eyes, black lower-face mask, black pointed cat-ear hoodie with blue drawstrings, presenting by a whiteboard. TOKO: dark charcoal round face, large black-and-white eyes and red nose, gray hedgehog hood with dark spikes, red scarf and visible windup key on back, taking notes. SHINNY: cheerful blond character with luminous golden eyes, translucent golden hooded cape, floating golden halo, using a laptop. DUAN: charcoal face, light blond fringe, mischievous eyes, orange-yellow bull hoodie with two cream horns, using a desktop monitor. No additional people, no duplicated mascots, no blended faces.\nPlan furniture and character anatomy TOGETHER. Seated characters occupy the far side of their own rectangular desks, facing front three-quarter toward their work. Tabletops naturally occlude laps, arms rest above desktop, chairs sit behind their bodies, seats support pelvis, knees fit under desks, feet and chair casters are distinct. Simple consistent desk legs and chair construction, stable contact shadows, no tangled supports or fused objects. Irene especially gets her own coherent workstation, same perspective as the other seated colleagues. Make all eight faces clearly readable and avoid plant/monitor occlusion. Composition should feel like a living team, with subtle interaction between characters, visually appealing as a premium website's immersive hero background. Leave some calm dark wall space near upper left suitable for a future headline, without sacrificing the scene. Original composition, polished illustration, convincing spatial logic, personality and atmosphere.",
+    "medias": [
+      {
+        "role": "image",
+        "value": "6a9c1f86-a052-430c-af84-9be8067d7af7"
+      },
+      {
+        "role": "image",
+        "value": "0fc9f986-a821-4a16-bd11-96cd5e9c62dc"
+      },
+      {
+        "role": "image",
+        "value": "bab9f5a7-00df-4175-8eba-a550e85e3b20"
+      },
+      {
+        "role": "image",
+        "value": "806bd8c2-a490-4d09-9754-3654a46dd852"
+      },
+      {
+        "role": "image",
+        "value": "a232695c-e7b1-45f8-bbd4-59f690f38549"
+      },
+      {
+        "role": "image",
+        "value": "ea87388e-d01d-4359-b42d-5cf621de6d49"
+      },
+      {
+        "role": "image",
+        "value": "3d61d999-3d22-4dd9-8b13-5c89dde269c3"
+      },
+      {
+        "role": "image",
+        "value": "5dd22f03-9925-4a65-ba21-5341c0a438fb"
+      }
+    ]
+  },
+  "status": "completed-concept-not-integrated",
+  "reportedCompletionModel": "nano_banana_2",
+  "modelIdentityNote": "Requested and acknowledged nano_banana_pro; completion reports nano_banana_2. Backend identity remains unverified.",
+  "sourcePath": "design/references/office-nano-original-v01.png",
+  "referencesNote": "Only eight original PFPs; no office reference."
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-23",
+  "provider": "Higgsfield",
+  "model": "bytedance_image_upscale",
+  "resolution": "2k",
+  "remove_bg": false,
+  "estimatedCreditsPerImage": 2,
+  "estimatedTotalCredits": 16,
+  "prompt": "Faithfully upscale this exact illustrated profile avatar to 2K. Preserve the character identity, expression, proportions, linework style, colors, costume, accessories, background and square composition. Clean compression artifacts and clarify existing edges. No redesign, new details, text, photorealism or changes to the drawing.",
+  "items": [
+    {
+      "name": "cedric",
+      "index": 0,
+      "reference": "https://pbs.twimg.com/profile_images/2006364745146757120/O6lkkQHe.jpg",
+      "localOriginal": "design/references/pfps/cedric.jpg",
+      "jobId": "520f144a-cde7-4e62-9ee1-8b12666fe8b1",
+      "source": "design/sources/avatars-upscale-v01/cedric.png",
+      "production": "apps/web/public/assets/agents/cedric-upscaled-v01.webp",
+      "status": "completed",
+      "resultUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_3J1PpWomklb63xrESg8BHAAptzV/hf_20260923_213107_520f144a-cde7-4e62-9ee1-8b12666fe8b1.png",
+      "generatedDimensions": [
+        2160,
+        2160
+      ],
+      "productionDimensions": [
+        1024,
+        1024
+      ],
+      "encoding": {
+        "format": "webp",
+        "quality": 95
+      }
+    },
+    {
+      "name": "irene",
+      "index": 1,
+      "reference": "https://pbs.twimg.com/profile_images/2077722217417502721/om7A1qVC_400x400.jpg",
+      "localOriginal": "design/references/pfps/irene.jpg",
+      "jobId": "ac94f287-7e9e-4c15-a5a2-9181bdbee341",
+      "source": "design/sources/avatars-upscale-v01/irene.png",
+      "production": "apps/web/public/assets/agents/irene-upscaled-v01.webp",
+      "status": "completed",
+      "resultUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_3J1PpWomklb63xrESg8BHAAptzV/hf_20260923_213341_ac94f287-7e9e-4c15-a5a2-9181bdbee341.png",
+      "generatedDimensions": [
+        2160,
+        2160
+      ],
+      "productionDimensions": [
+        1024,
+        1024
+      ],
+      "encoding": {
+        "format": "webp",
+        "quality": 95
+      }
+    },
+    {
+      "name": "jason",
+      "index": 2,
+      "reference": "https://pbs.twimg.com/profile_images/2020389106203992064/205KDO_7_400x400.jpg",
+      "localOriginal": "design/references/pfps/jason.jpg",
+      "jobId": "22e25224-1f29-4a99-9375-e48bdcf013f0",
+      "source": "design/sources/avatars-upscale-v01/jason.png",
+      "production": "apps/web/public/assets/agents/jason-upscaled-v01.webp",
+      "status": "completed",
+      "resultUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_3J1PpWomklb63xrESg8BHAAptzV/hf_20260923_213340_22e25224-1f29-4a99-9375-e48bdcf013f0.png",
+      "generatedDimensions": [
+        2160,
+        2160
+      ],
+      "productionDimensions": [
+        1024,
+        1024
+      ],
+      "encoding": {
+        "format": "webp",
+        "quality": 95
+      }
+    },
+    {
+      "name": "carol",
+      "index": 3,
+      "reference": "https://pbs.twimg.com/profile_images/2102293490898264064/XENb_ZLk_400x400.jpg",
+      "localOriginal": "design/references/pfps/carol.jpg",
+      "jobId": "7737c4f0-be32-4808-988b-8ade0e8eb87e",
+      "source": "design/sources/avatars-upscale-v01/carol.png",
+      "production": "apps/web/public/assets/agents/carol-upscaled-v01.webp",
+      "status": "completed",
+      "resultUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_3J1PpWomklb63xrESg8BHAAptzV/hf_20260923_213339_7737c4f0-be32-4808-988b-8ade0e8eb87e.png",
+      "generatedDimensions": [
+        2160,
+        2160
+      ],
+      "productionDimensions": [
+        1024,
+        1024
+      ],
+      "encoding": {
+        "format": "webp",
+        "quality": 95
+      }
+    },
+    {
+      "name": "madaks",
+      "index": 4,
+      "reference": "https://pbs.twimg.com/profile_images/2019660166229045248/UI3DotIu_400x400.jpg",
+      "localOriginal": "design/references/pfps/madaks.jpg",
+      "jobId": "ab705413-5dde-44a9-9a12-a72ff3579ea7",
+      "source": "design/sources/avatars-upscale-v01/madaks.png",
+      "production": "apps/web/public/assets/agents/madaks-upscaled-v01.webp",
+      "status": "completed",
+      "resultUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_3J1PpWomklb63xrESg8BHAAptzV/hf_20260923_213340_ab705413-5dde-44a9-9a12-a72ff3579ea7.png",
+      "generatedDimensions": [
+        2160,
+        2160
+      ],
+      "productionDimensions": [
+        1024,
+        1024
+      ],
+      "encoding": {
+        "format": "webp",
+        "quality": 95
+      }
+    },
+    {
+      "name": "toko",
+      "index": 5,
+      "reference": "https://pbs.twimg.com/profile_images/2084993555664400384/Sm8DjNfz_400x400.jpg",
+      "localOriginal": "design/references/pfps/toko.jpg",
+      "jobId": "4f27f709-12db-4cba-848b-27b871e46acf",
+      "source": "design/sources/avatars-upscale-v01/toko.png",
+      "production": "apps/web/public/assets/agents/toko-upscaled-v01.webp",
+      "status": "completed",
+      "resultUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_3J1PpWomklb63xrESg8BHAAptzV/hf_20260923_213340_4f27f709-12db-4cba-848b-27b871e46acf.png",
+      "generatedDimensions": [
+        2160,
+        2160
+      ],
+      "productionDimensions": [
+        1024,
+        1024
+      ],
+      "encoding": {
+        "format": "webp",
+        "quality": 95
+      }
+    },
+    {
+      "name": "duan",
+      "index": 6,
+      "reference": "https://pbs.twimg.com/profile_images/2084962656847622144/Q87cRcWj_400x400.jpg",
+      "localOriginal": "design/references/pfps/duan.jpg",
+      "jobId": "7d17d7dd-2869-42b5-8e54-b0ab23f18f12",
+      "source": "design/sources/avatars-upscale-v01/duan.png",
+      "production": "apps/web/public/assets/agents/duan-upscaled-v01.webp",
+      "status": "completed",
+      "resultUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_3J1PpWomklb63xrESg8BHAAptzV/hf_20260923_213340_7d17d7dd-2869-42b5-8e54-b0ab23f18f12.png",
+      "generatedDimensions": [
+        2160,
+        2160
+      ],
+      "productionDimensions": [
+        1024,
+        1024
+      ],
+      "encoding": {
+        "format": "webp",
+        "quality": 95
+      }
+    },
+    {
+      "name": "shinny",
+      "index": 7,
+      "reference": "https://pbs.twimg.com/profile_images/2089760928099405824/beY16kIr_400x400.jpg",
+      "localOriginal": "design/references/pfps/shinny.jpg",
+      "jobId": "03f20dad-ff0f-4b2b-87cb-1707210f1735",
+      "source": "design/sources/avatars-upscale-v01/shinny.png",
+      "production": "apps/web/public/assets/agents/shinny-upscaled-v01.webp",
+      "status": "completed",
+      "resultUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_3J1PpWomklb63xrESg8BHAAptzV/hf_20260923_213347_03f20dad-ff0f-4b2b-87cb-1707210f1735.png",
+      "generatedDimensions": [
+        2160,
+        2160
+      ],
+      "productionDimensions": [
+        1024,
+        1024
+      ],
+      "encoding": {
+        "format": "webp",
+        "quality": 95
+      }
+    }
+  ]
+}

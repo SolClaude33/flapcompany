@@ -1,0 +1,23 @@
+{
+  "provider": "Higgsfield",
+  "jobId": "86dc30a2-1e28-4e41-bb7d-d3d50a1dd5e7",
+  "estimatedCreditsExact": 2.75,
+  "params": {
+    "model": "gpt_image_2_5",
+    "variant": "sunburst",
+    "quality": "high",
+    "resolution": "2k",
+    "count": 1,
+    "background": "opaque",
+    "aspect_ratio": "16:9",
+    "medias": [
+      {
+        "role": "image",
+        "value": "f9796fce-658f-4040-881f-35df9b40b839"
+      }
+    ],
+    "prompt": "LOCALIZED CORRECTION ONLY to the supplied finished office illustration. Preserve the exact full image framing, camera, architecture, colors, lighting, ALL seven other characters, desks, plants, blank whiteboard and blank glass room wall. Edit ONLY IRENE and HER PURPLE CHAIR in the lower left-center, around x=34%-43%, y=55%-86%. Irene is the SMALL IRIDESCENT RAINBOW-HOODED PINK-FACED character holding a dark tablet, immediately to the LEFT of the GOLD HALO character. Do NOT edit the pink/cyan-haired character further left. The present Irene pose is anatomically wrong: her torso faces the viewer while her chair and legs face another direction. RECONSTRUCT her seated body and chair as one coherent pose. Irene sits at the LEFT END of the foreground shared wooden desk, facing SCREEN RIGHT toward her tablet. Show her in a clear RIGHT-FACING SIDE / THREE-QUARTER PROFILE: head, shoulders, ribcage, pelvis, knees and chair all share that direction. Her recognizable pink face has one near eye and a sliver of the far eye, NOT a frontal symmetrical face. Her rainbow bubble hood and iridescent onesie retain their exact design. Her spine is upright on the LEFT side of her torso, against a low purple backrest BEHIND her to screen left. The chair backrest must NOT cover her abdomen or be between her and the tablet. Her pelvis is visibly supported by a horizontal purple seat, thighs extend naturally RIGHT under the tabletop, knees bend downward with feet below desk. One near leg can be visible, far leg partially occluded naturally. Her elbows naturally extend forward RIGHT, both hands hold the tablet angled toward her face above the tabletop. Make the chair deliberately simple: low single backrest behind her spine, one level seat, no armrests, centered single vertical pedestal and coherent five-spoke wheeled base on the existing floor. No crossed torso, no detached hips, no front-facing head on a backwards body. Shift her head slightly left only if needed for natural seating; maintain similar character scale. Keep the existing desk edge intact except for correct local occlusion by hands/legs. All scene outside this character-chair area should remain unchanged, not reimagined. No added text, no logos. This is a precise anatomy and seating repair in the existing polished hand-drawn cartoon style."
+  },
+  "status": "accepted-and-integrated",
+  "productionPath": "apps/web/public/assets/office-scene-v03.webp"
+}

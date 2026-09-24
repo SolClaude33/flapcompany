@@ -1,0 +1,55 @@
+{
+  "provider": "Higgsfield",
+  "model": "nano_banana_pro",
+  "jobId": "dfa735b1-4ff1-457d-a59f-f5d71cd6cc84",
+  "estimatedCreditsExact": 2,
+  "params": {
+    "model": "nano_banana_pro",
+    "resolution": "2k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "medias": [
+      {
+        "role": "image",
+        "value": "4dcc63b9-c80c-4d97-9a28-a128de36ce2d"
+      },
+      {
+        "role": "image",
+        "value": "6a9c1f86-a052-430c-af84-9be8067d7af7"
+      },
+      {
+        "role": "image",
+        "value": "0fc9f986-a821-4a16-bd11-96cd5e9c62dc"
+      },
+      {
+        "role": "image",
+        "value": "bab9f5a7-00df-4175-8eba-a550e85e3b20"
+      },
+      {
+        "role": "image",
+        "value": "806bd8c2-a490-4d09-9754-3654a46dd852"
+      },
+      {
+        "role": "image",
+        "value": "a232695c-e7b1-45f8-bbd4-59f690f38549"
+      },
+      {
+        "role": "image",
+        "value": "ea87388e-d01d-4359-b42d-5cf621de6d49"
+      },
+      {
+        "role": "image",
+        "value": "3d61d999-3d22-4dd9-8b13-5c89dde269c3"
+      },
+      {
+        "role": "image",
+        "value": "5dd22f03-9925-4a65-ba21-5341c0a438fb"
+      }
+    ],
+    "prompt": "Refine the supplied illustrated office production background (reference 1) with faithful character designs from references 2–9. Preserve the exact existing wide camera, framing, office architecture, workstation positions, lighting, purple/lavender/warm wood palette, and blank whiteboard/sign areas. Output only the background illustration, no UI, text, logos or emblems. Keep the hand-drawn cartoon art style, not photorealism or 3D. Main goal: cleaner intentional character linework and accurate original identities, natural hands/anatomy and physically coherent seated poses. Exactly eight distinct characters, each once. Reference mapping: 2 Cedric icy blue grumpy mountain creature, rear-right glass meeting room; 3 Carol pink creature with pale blue bubbly hood, left desk; 4 Jason black face orange creature hood with propeller, left-middle desk; 5 Irene pink face iridescent rainbow hood, lower-left-middle at HER OWN separate desk; 6 Madaks black cat hoodie, light face black mask blue drawstrings, standing at whiteboard; 7 Toko dark windup hedgehog red scarf, lower-right desk; 8 Shinny golden/blond hood and halo with purple outfit, center-front desk; 9 Duan black face blond bangs in yellow-orange bull hoodie with cream horns, middle-right monitor. Keep identities from the original PFP references without blending them together. Restore missing distinctive outfit details only where compatible with existing work poses. Irene MUST stay seated behind her own rectangular desk, front three-quarter like Carol and Shinny, with desk in front of torso, chair behind body; no side seating, no shared desk. Improve especially Carol and Cedric's legs and chair bases: distinguish feet from wheels, simplify occluded parts, normal supported pelvis, no fused or extra limbs, coherent chair pedestal and contact with floor. Refine desk edges/supports without relocating desks. Preserve all surrounding composition and furniture, do not invent extra objects. Sharp controlled contours, clean eyes and hands, consistent scale, softly painted shading. The goal is a careful alternative finishing pass on this same approved composition, retaining its charm and detailed office atmosphere."
+  },
+  "status": "completed-comparison-not-integrated",
+  "reportedCompletionModel": "nano_banana_2",
+  "modelIdentityNote": "Submitted as nano_banana_pro and acknowledged under that identifier. jobs_wait reports nano_banana_2. Exact executed model is not confirmed.",
+  "sourcePath": "design/sources/office-nano-pro-v01.png"
+}

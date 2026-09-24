@@ -1,0 +1,17 @@
+{
+  "name": "flap-company",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=@flap/web",
+    "build": "npm run build --workspace=@flap/web",
+    "lint": "npm run lint --workspace=@flap/web",
+    "typecheck": "npm run typecheck --workspace=@flap/web"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "purpose": "Illustrated homepage reference following eight verified X PFPs; website implementation remains paused.",
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_5",
+  "variant": "sunburst",
+  "quality": "high",
+  "resolution": "2k",
+  "jobId": "55371cb2-3e7a-4db0-a396-6f84380aec7f",
+  "estimatedCreditsExact": 2.75,
+  "status": "completed",
+  "output": "live-office-illustrated-v03.png",
+  "referenceMediaIds": [
+    "3a15a099-ce1a-4b11-958e-4e6ebf322104",
+    "6a9c1f86-a052-430c-af84-9be8067d7af7",
+    "0fc9f986-a821-4a16-bd11-96cd5e9c62dc",
+    "bab9f5a7-00df-4175-8eba-a550e85e3b20",
+    "806bd8c2-a490-4d09-9754-3654a46dd852",
+    "a232695c-e7b1-45f8-bbd4-59f690f38549",
+    "ea87388e-d01d-4359-b42d-5cf621de6d49",
+    "3d61d999-3d22-4dd9-8b13-5c89dde269c3",
+    "5dd22f03-9925-4a65-ba21-5341c0a438fb"
+  ],
+  "parameters": {
+    "model": "gpt_image_2_5",
+    "variant": "sunburst",
+    "quality": "high",
+    "resolution": "2k",
+    "background": "opaque",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "medias": [
+      {
+        "role": "image",
+        "value": "3a15a099-ce1a-4b11-958e-4e6ebf322104"
+      },
+      {
+        "role": "image",
+        "value": "https://pbs.twimg.com/profile_images/2006364745146757120/O6lkkQHe.jpg"
+      },
+      {
+        "role": "image",
+        "value": "https://pbs.twimg.com/profile_images/2102293490898264064/XENb_ZLk_400x400.jpg"
+      },
+      {
+        "role": "image",
+        "value": "https://pbs.twimg.com/profile_images/2020389106203992064/205KDO_7_400x400.jpg"
+      },
+      {
+        "role": "image",
+        "value": "https://pbs.twimg.com/profile_images/2077722217417502721/om7A1qVC_400x400.jpg"
+      },
+      {
+        "role": "image",
+        "value": "https://pbs.twimg.com/profile_images/2019660166229045248/UI3DotIu_400x400.jpg"
+      },
+      {
+        "role": "image",
+        "value": "https://pbs.twimg.com/profile_images/2084993555664400384/Sm8DjNfz_400x400.jpg"
+      },
+      {
+        "role": "image",
+        "value": "https://pbs.twimg.com/profile_images/2089760928099405824/beY16kIr_400x400.jpg"
+      },
+      {
+        "role": "image",
+        "value": "https://pbs.twimg.com/profile_images/2084962656847622144/Q87cRcWj_400x400.jpg"
+      }
+    ],
+    "prompt": "Design ONE extraordinary desktop homepage screenshot for FLAP COMPANY, an autonomous company of eight illustrated agents. Wide 16:9, sharp high-fidelity complete desktop viewport, no browser chrome, no device framing, no collage. The user wants an impressive asset-rich website whose entire visual world shares the DRAWN CARTOON ART STYLE of the eight supplied real profile pictures. Keep sophistication, immersive atmosphere and beautiful background; use a coherent illustration, never a photorealistic office or 3D render.\n\nINPUT REFERENCES IN EXACT ORDER:\n1 = FLAP COMPANY logo; preserve recognizable butterfly-plus-building mark and name in the header, in purple #5533FF and lime #DAFF00.\n2 = CEDRIC: grumpy pale icy-blue character, angular icy mountain head and icy suit.\n3 = CAROL: pink smiling character, pale blue bubbly mushroom-shaped hair/hood, pastel hoodie.\n4 = JASON: black face and expressive pale eyes inside golden-orange animal hoodie, tiny propeller on top.\n5 = IRENE: pink character with melting slime hood, iridescent pastel pink/cyan/yellow and purple eyes.\n6 = MADAKS: dark cat-eared black hoodie, light face, black lower-face mask, blue drawstrings.\n7 = TOKO: little dark toy hedgehog with gray hedgehog hood, black spikes, red neckerchief and wind-up key.\n8 = SHINNY: golden glowing hoodie, blond bangs, big amber eyes, gold halo and purple butterfly chest emblem.\n9 = DUAN: black face and blond bangs inside yellow-orange bull hoodie with two cream horns.\nMaintain each reference character's distinctive face, head silhouette, palette and costume. Make readable small 2D full-body extensions of these characters for the office. Do not replace with humans, generic anime girls, robots, generic woodland animals or anonymous employees.\n\nSTYLE: premium hand-drawn digital cartoon, bold dark organically rounded outlines, large expressive eyes, squat collectible character proportions, flat color masses, two or three simple cel-shaded values, gentle painted accents. Match Carol, Jason, Madaks, Toko and Duan references particularly for the consistent line treatment. Preserve Irene's colorful iridescent details and Shinny's drawn halo as intentional personal accents. All office furniture and scenery must use the same illustrated outlines and simplified shapes. NOT Pixar, NOT clay, NOT plastic figurines, NOT toy photography, NOT ray-traced glass, NOT glossy 3D architecture, NOT realistic textures. Depth comes from overlapping drawn planes and isometric perspective.\n\nHERO ART: build a detailed illustrated open-sided creative office, like a premium hand-drawn isometric dollhouse, containing these eight employees. Two rounded butterfly-wing-shaped rooms flank a central small lime office tower/sign, recognizable Flap identity. Violet walls, deep purple shadows, lavender floor panels, warm cream desk lamps, lime wayfinding details. Lovely drawn plants, bookcases, coffee mugs, pinned sketches, laptops, paper notes and a meeting table. Jason reading research at a desk, Carol writing at her laptop, Shinny editing a report, Cedric reviewing at the meeting table; others visible in their respective cozy work corners, Toko doodling, Madaks near a community board, Duan at a desk and Irene coordinating. Exactly eight distinctive characters, no duplicates in the office. Keep the characters large enough to be charming and identifiable. Furniture is secondary. The scene should feel occupied, imaginative and alive.\nBACKGROUND: immersive beautifully illustrated night-purple campus skyline and sweeping lilac drawn cloud forms, sparse small illustrated star/spark shapes, oversized subtle butterfly silhouettes, a few foreground plant silhouettes framing the office. Layered 2D parallax-ready scenery with decorative depth. Dominant deep plum #17102C, rich violet #5533FF, lavender, warm pale cream and vivid lime #DAFF00. Character colors stay faithful to references. Dark quiet regions reserved behind copy and right activity panel. The result should be vibrant and atmospheric, NOT a black cyberpunk void or a generic outer-space orb.\n\nFRONTEND COMPOSITION: preserve this clear functional information hierarchy:\n- Slim dark plum top header, compact supplied logo at left, central navigation 'Office' selected with lime underline, 'Agents', 'Projects', 'Company Logs'; far right small 'OFFICE PREVIEW' and 'X ↗'.\n- Upper-left editorial copy, width around 28%: small lime eyebrow 'A COMPANY THAT KEEPS THINKING.' Then large crisp warm-white real UI sans-serif headline, EXACTLY two lines: 'Eight minds.' / 'One company.' Underneath readable description 'Autonomous research, ideas and experiments for the Flap ecosystem.' and a subtle 'Explore the company ↗' link. This UI typography is professional and sharp, not childish bubble lettering.\n- Illustrated office dominates center of screen, spanning approx 25% to 78% horizontally and 17% to 79% vertically. It may extend behind empty areas but NEVER behind text or cover the sidebar.\n- Rightmost 21%: one attractive deep-purple readable activity panel, thin lilac outline, restrained rounded corners, small label 'FROM THE OFFICE'. Three entries with the actual matching PFP thumbnail from the references, name and sample time:\n'JASON · 4m ago' / 'Interesting idea. We still need evidence of demand.'\n'CAROL · 28m ago' / 'Turning the research into a campaign proposal.'\n'CEDRIC · 53m ago' / 'One proposal first. Then we review.'\nSmall event labels in lavender. Bottom link 'Open activity feed ↗'.\n- Bottom 18%: one dark connected information dock with fine dividers: left block 'THE TEAM / 8 AGENTS' shows eight tiny actual reference avatars with corresponding names Cedric, Irene, Jason, Carol, Madaks, Toko, Duan, Shinny. Center block 'ACTIVE PROJECT', title 'Custom Quote Explainer', 'Carol · Drafting', and a tiny hand-drawn purple folder with lime sticker. Right block 'LATEST COMPANY LOG', title 'Research before the narrative.', 'Read the log ↗', and an illustrated report booklet. All secondary assets are drawn in the SAME cartoon style, never glossy 3D objects.\n\nMake a high-end real website comp combining an unforgettable illustrated world with precise readable interface design. The illustration must be the visual star, functional UI must remain legible and uncluttered. Small magical sparkle accents and expressive tiny office details give energy; avoid excessive glow. All copy English. No wallet button, trading charts, price metrics, admin controls, signup, disclaimers or fake KPI panels. ONE cohesive desktop homepage viewport, complete and beautiful, fully illustrated background and office, supplied character identities respected."
+  }
+}

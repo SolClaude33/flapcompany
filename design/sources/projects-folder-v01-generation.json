@@ -1,0 +1,27 @@
+{
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_5",
+  "variant": "sunburst",
+  "quality": "high",
+  "resolution": "2k",
+  "jobId": "335bfbd1-a372-4e96-9465-73fff6e7afe3",
+  "estimatedCreditsExact": 2.75,
+  "params": {
+    "model": "gpt_image_2_5",
+    "variant": "sunburst",
+    "quality": "high",
+    "resolution": "2k",
+    "count": 1,
+    "background": "transparent",
+    "aspect_ratio": "1:1",
+    "medias": [
+      {
+        "role": "image",
+        "value": "8fa5e5e9-da79-44bd-855c-58ddd87049bd"
+      }
+    ],
+    "prompt": "Create a single final standalone website UI illustration asset: a charming thick PURPLE PROJECT FOLDER with a visible tab at top-left, slightly open, holding three neatly aligned cream and lavender paper sheets. Reference image is STYLE only: match its polished handdrawn 2D cartoon office props, crisp dark-purple ink outlines and soft painted dimensional shading. A small lime #DAFF00 paperclip and lime edge accents, main cover #5533FF purple with lavender highlights. Three-quarter view, top and right side visible, subtly leaning 8 degrees; easy recognizable silhouette at 70 pixels high. Centered object fills 78 percent of square with full generous transparent padding. Actual transparent alpha background, isolated, no room, no surface, no floor, no rectangular backdrop, no text, no words, no logo, no watermark, no surrounding sparkles. Front cover has a clean empty area reserved for a separately composited exact brand mark. Clean consistent perspective and neatly formed paper edges. No photorealism or glossy 3D render."
+  },
+  "status": "accepted-and-integrated",
+  "productionPath": "apps/web/public/assets/projects-folder-v01.webp"
+}

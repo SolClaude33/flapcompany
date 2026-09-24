@@ -1,0 +1,27 @@
+{
+  "provider": "Higgsfield",
+  "jobId": "4dcc63b9-c80c-4d97-9a28-a128de36ce2d",
+  "estimatedCreditsExact": 2.75,
+  "params": {
+    "model": "gpt_image_2_5",
+    "variant": "sunburst",
+    "quality": "high",
+    "resolution": "2k",
+    "count": 1,
+    "background": "opaque",
+    "aspect_ratio": "16:9",
+    "medias": [
+      {
+        "role": "image",
+        "value": "86dc30a2-1e28-4e41-bb7d-d3d50a1dd5e7"
+      },
+      {
+        "role": "image",
+        "value": "f9796fce-658f-4040-881f-35df9b40b839"
+      }
+    ],
+    "prompt": "Edit reference 1, the finished cartoon office. Reference 2 shows Irene's recognizable FRONT three-quarter face; use that facial orientation, NOT its broken seating geometry. The user rejects Irene sitting sideways at the end of a shared desk. REDESIGN IRENE'S ENTIRE WORKSTATION so she sits BEHIND HER OWN DESK in exactly the same perspective as the other workers (Carol at left, Shinny golden halo at center, Toko at right). Irene is the iridescent rainbow-hooded pink character, lower-left-center beside the gold halo girl. EDIT ONLY her body/chair AND the necessary local desk geometry. Keep all seven other characters, their faces, camera, architecture, lighting, plants, blank branding panels, room furniture outside this small work area unchanged.\nNew arrangement: split the present shared foreground workstation into two clearly separate, adjacent rectangular warm wooden desks with a slim visible gap. Shinny keeps her current position and laptop at the RIGHT desk, whose desktop and supporting legs stay coherent. Irene gets the LEFT small rectangular desk, matching the perspective and wood/metal construction of Carol's desk above-left. Her desk is IN FRONT OF HER torso from the viewer's viewpoint, not alongside her. Irene sits on the FAR side of her desk, head at approximately x38%, y60%, facing diagonally toward the viewer and slightly screen right, showing both expressive eyes like Carol/Shinny. Her shoulders, torso and pelvis face the same way. Both forearms reach FORWARD over her own desktop, holding her dark tablet angled toward her face. The desktop's near/front edge crosses below her elbows and naturally occludes her lap/thighs. Her purple chair is BEHIND her torso on the far side, its backrest visible only at her shoulder edges and never in front of her. Small chair seat below pelvis, simple central pedestal and wheeled base, correct contact shadows. Legs extend naturally under her own desktop, mostly occluded, feet only visible beneath when sensible. Reposition chair and desk as needed to achieve believable front three-quarter seating, not a side profile. Remove the previous side-facing chair and any old residual desk edges or legs; fill vacated lower-left area with consistent wood floor. Her separate desktop must have clean four corners, a straight constant-thickness front edge, two clear front metal legs, and room for her knees. Avoid collision with Carol's workstation behind-left and with Shinny's desk to the right. Keep Irene at same scale and preserve rainbow hood, iridescent clothing and original face. Maintain all eight characters exactly once. Do not add lettering, logos, UI, extra characters or new decor. Preserve the illustration's polished ink and painted texture. Treat this as a local workstation redesign with physically consistent occlusion, not just rotating Irene in place."
+  },
+  "status": "accepted-and-integrated",
+  "productionPath": "apps/web/public/assets/office-scene-v04.webp"
+}

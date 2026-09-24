@@ -1,0 +1,27 @@
+{
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_5",
+  "variant": "sunburst",
+  "quality": "high",
+  "resolution": "2k",
+  "jobId": "d2e3b4c4-eab7-4d2f-b48a-a6f5928abb20",
+  "estimatedCreditsExact": 2.75,
+  "params": {
+    "model": "gpt_image_2_5",
+    "variant": "sunburst",
+    "quality": "high",
+    "resolution": "2k",
+    "count": 1,
+    "background": "transparent",
+    "aspect_ratio": "1:1",
+    "medias": [
+      {
+        "role": "image",
+        "value": "8fa5e5e9-da79-44bd-855c-58ddd87049bd"
+      }
+    ],
+    "prompt": "Create a single final standalone website UI illustration asset: a beautiful thick PURPLE COMPANY JOURNAL, closed hardcover notebook with 5 distinct tidy lavender spiral binding loops on left spine, cream page block visible on right edge, and one lime #DAFF00 ribbon bookmark peeking below. Reference image is STYLE only: match polished handdrawn 2D cartoon office props with dark purple ink outlines and refined soft painted dimensional shading. Cover #5533FF purple with lavender highlights and subtle inset border, small lime elastic corner band. Three-quarter view with front cover fully legible as a shape, subtly leaning -10 degrees, recognizable at 75 pixels high. Centered object fills 78 percent of square with full transparent padding. Actual transparent alpha background, isolated, no room, no surface, no floor, no rectangular backdrop, no words, no letters, no logos, no watermark, no particles. The central cover remains blank for an exact brand mark added separately. Coherent binding, page edges and perspective, no photorealism or glossy 3D render."
+  },
+  "status": "accepted-and-integrated",
+  "productionPath": "apps/web/public/assets/company-journal-v01.webp"
+}

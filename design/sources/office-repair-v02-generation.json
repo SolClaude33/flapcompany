@@ -1,0 +1,27 @@
+{
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_5",
+  "variant": "sunburst",
+  "quality": "high",
+  "resolution": "2k",
+  "jobId": "f9796fce-658f-4040-881f-35df9b40b839",
+  "estimatedCreditsExact": 2.75,
+  "params": {
+    "model": "gpt_image_2_5",
+    "variant": "sunburst",
+    "quality": "high",
+    "resolution": "2k",
+    "count": 1,
+    "background": "opaque",
+    "aspect_ratio": "16:9",
+    "medias": [
+      {
+        "role": "image",
+        "value": "62466c6f-f402-4a0e-8c43-cf9c4b2e5a5d"
+      }
+    ],
+    "prompt": "Precise structural repair of the supplied cartoon office illustration, production background for a website. Keep the existing camera, framing, room architecture, eight character identities, their exact face/outfit designs, their desk positions, evening lighting, lavender/purple/lime palette, ink-and-paint illustration style. Preserve the blank whiteboard and blank meeting room wall panel at their exact existing positions; no logos or text anywhere. Main task: REDRAW THE FURNITURE CLEANLY with simple physically coherent construction, fewer objects and consistent perspective, especially these areas. 1) Irene, the rainbow hood character lower left-center: replace her entire distorted chair with one ordinary purple ergonomic office chair seen from her rear-left, correctly oriented toward her tablet and the desk. Backrest aligned behind spine, level seat supporting pelvis, two armrests connected to chair, single vertical pedestal centered below seat and ONE five-spoke wheeled base resting on floor. Her legs bend naturally under desk, no chair parts through her body. 2) Shared foreground workstation Irene and gold halo Shinny: redraw as ONE straight rectangular warm wood tabletop with uniform thickness, four clear corners, unobstructed knee space and simple metal legs on floor. Separate neighboring desks cleanly with narrow gaps; remove extra mismatched storage blocks that fuse with desk edges. 3) Cedric icy character in glass meeting room: remove the erroneous chair between viewer and Cedric that makes him appear on the table; place ONE normal chair BEHIND his body, pelvis on seat below the tabletop, legs below table, two arms naturally resting above tabletop, one laptop facing him. Meeting table rectangle with four consistent straight legs; empty chairs distinct and correctly behind table, no overlapping extra chair frames. 4) Left Carol/Jason desk rows: rectify continuous tabletops, constant-thickness edges, simple aligned straight legs, sensible spacing. 5) Right Duan/Toko desks: simplify into separate rectangular desktops, clear edges, fewer accessories, correct monitor and laptop orientations facing their users; fix books and notebooks resting flat on the surfaces. 6) All office chairs and desk legs should contact same floor plane with contact shadows, no merged legs/armrests or floating objects. Clean up tiny tangled cables and malformed small accessories, retain plants but reduce clutter around floor supports. Eight characters exactly once; preserve all facial identities. Do not alter the attractive composition, do not redesign environment, do not add UI or lettering. Sharper deliberate linework, refined professional background painting, clear anatomy and silhouettes. This is a careful redraw of defective geometry, not an upscale."
+  },
+  "status": "accepted-and-integrated",
+  "productionPath": "apps/web/public/assets/office-scene-v02.webp"
+}

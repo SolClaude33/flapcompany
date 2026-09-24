@@ -1,0 +1,37 @@
+{
+  "provider": "Higgsfield",
+  "jobId": "119e55fa-69a7-4ccd-a4f5-8b4968afd53a",
+  "estimatedCreditsExact": 2.75,
+  "params": {
+    "model": "gpt_image_2_5",
+    "variant": "sunburst",
+    "quality": "high",
+    "resolution": "2k",
+    "count": 1,
+    "background": "opaque",
+    "aspect_ratio": "16:9",
+    "medias": [
+      {
+        "role": "image",
+        "value": "d1b141ee-37e3-4911-b3d8-474b07de9c9d"
+      },
+      {
+        "role": "image",
+        "value": "3a15a099-ce1a-4b11-958e-4e6ebf322104"
+      }
+    ],
+    "prompt": "Perform a highly localized final illustration edit on reference 1, the APPROVED Flap office background. Replace ONLY the existing FLAP COMPANY wall lettering and its tiny adjacent framed orange mark (on the lavender wall just right of the glass meeting room, above Toko) with the COMPLETE project logo from reference 2, naturally rendered as dimensional painted wall lettering and a matching wall-mounted emblem. Reference 2 is the brand identity: purple butterfly-shaped wings enclosing a lime office-building center, beside FLAP / COMPANY. Preserve that actual emblem structure, wordmark spelling, proportions and purple/lime identity. Make it appear professionally installed in this illustrated room: individual raised letters and emblem directly on the wall, coherent wall perspective, very subtle cast shadows from warm lamps, gently painted highlights and reflected sunset light. Treat it in the same hand-painted cartoon language as the room. NO rectangular black sign, NO plaque, NO boxed sticker, no flat pasted image. Use the existing wall sign footprint around x52-61%, y20-29%, scaling carefully to avoid meeting-room glass, bookshelf and characters. Remove old lettering entirely, do not leave duplicate brands behind it. HIGHEST PRIORITY: preserve absolutely all eight characters unchanged from reference 1: same facial designs, eyes, masks, hoods, costumes, poses, locations and proportions. Do not retouch their faces. Preserve every desk, chair, room structure, plant, window, light, color mood and the exact wide camera composition. The left empty wall, right UI-safe space and lower floor must remain exactly as before. No new furniture or objects. Do not zoom, crop, shift the camera or rearrange the office. Do not generate website UI. This is a localized logo replacement only; everything else stays as close as possible to the reference artwork."
+  },
+  "status": "completed-integrated",
+  "purpose": "User explicitly requested regenerated artwork with naturally integrated logo, replacing rejected SVG pasted plaques.",
+  "finalPath": "apps/web/public/assets/office-sunburst-generated-v04.webp",
+  "output": {
+    "format": "webp",
+    "width": 2688,
+    "height": 1520,
+    "channels": 3,
+    "premultiplied": false,
+    "hasAlpha": false,
+    "size": 890814
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "provider": "Higgsfield",
+  "jobId": "d6c01c5d-9f84-40c3-a710-a07a1c87de16",
+  "estimatedCreditsExact": 2.75,
+  "params": {
+    "model": "gpt_image_2_5",
+    "variant": "sunburst",
+    "quality": "high",
+    "resolution": "2k",
+    "count": 1,
+    "background": "transparent",
+    "aspect_ratio": "1:1",
+    "medias": [
+      {
+        "role": "image",
+        "value": "d2e3b4c4-eab7-4d2f-b48a-a6f5928abb20"
+      },
+      {
+        "role": "image",
+        "value": "3a15a099-ce1a-4b11-958e-4e6ebf322104"
+      }
+    ],
+    "prompt": "Regenerate the purple illustrated company journal from reference 1 with the supplied FLAP COMPANY identity in reference 2 physically integrated into the hardcover as tasteful foil-stamped cover art. Preserve reference 1 camera angle, slightly counterclockwise lean, purple #5533FF hardcover, cream page block, tidy lavender spiral binding on left, lime elastic and ribbon, crisp cartoon contours and soft painted shading. Use the COMPLETE exact reference 2 logo: butterfly-wing purple icon with lime office-building center plus FLAP and COMPANY lettering in their original proportions. Faithful clean brand shapes; no redesign, no substitute butterfly alone. Make logo generous on front cover and drawn in the same polished illustration style, following perspective and subtle texture, with embossed ink/foil catching the same light as the cover. Its colors and highlights should read naturally against the violet material. NO black rectangle, NO dark plaque, NO label pasted on top, no sticker border. It must feel manufactured into this book. Logo must remain recognizable at small web icon scale. One isolated notebook, fills 82% square, generous true transparent alpha padding. No scene, no ground surface, no checkerboard pattern, no extra objects, no watermark. This is actual image generation of a cohesive finished branded notebook, not a composite graphic."
+  },
+  "status": "completed-integrated",
+  "purpose": "User explicitly requested regenerated artwork with naturally integrated logo, replacing rejected SVG pasted plaques.",
+  "finalPath": "apps/web/public/assets/company-journal-generated-v03.webp",
+  "output": {
+    "format": "webp",
+    "width": 480,
+    "height": 480,
+    "channels": 4,
+    "premultiplied": true,
+    "hasAlpha": true,
+    "size": 65638
+  }
+}

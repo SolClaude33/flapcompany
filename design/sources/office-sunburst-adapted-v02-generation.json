@@ -1,0 +1,55 @@
+{
+  "provider": "Higgsfield",
+  "jobId": "d1b141ee-37e3-4911-b3d8-474b07de9c9d",
+  "estimatedCreditsExact": 2.75,
+  "params": {
+    "model": "gpt_image_2_5",
+    "variant": "sunburst",
+    "quality": "high",
+    "resolution": "2k",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "background": "opaque",
+    "medias": [
+      {
+        "role": "image",
+        "value": "2ce2ba9d-0721-48e8-8c73-3859a563535b"
+      },
+      {
+        "role": "image",
+        "value": "6a9c1f86-a052-430c-af84-9be8067d7af7"
+      },
+      {
+        "role": "image",
+        "value": "0fc9f986-a821-4a16-bd11-96cd5e9c62dc"
+      },
+      {
+        "role": "image",
+        "value": "bab9f5a7-00df-4175-8eba-a550e85e3b20"
+      },
+      {
+        "role": "image",
+        "value": "806bd8c2-a490-4d09-9754-3654a46dd852"
+      },
+      {
+        "role": "image",
+        "value": "a232695c-e7b1-45f8-bbd4-59f690f38549"
+      },
+      {
+        "role": "image",
+        "value": "ea87388e-d01d-4359-b42d-5cf621de6d49"
+      },
+      {
+        "role": "image",
+        "value": "3d61d999-3d22-4dd9-8b13-5c89dde269c3"
+      },
+      {
+        "role": "image",
+        "value": "5dd22f03-9925-4a65-ba21-5341c0a438fb"
+      }
+    ],
+    "prompt": "Adapt the FIRST reference illustration into a PRODUCTION WEBSITE BACKGROUND by pulling the camera back and thoughtfully expanding the office environment. KEEP precisely its polished cartoon illustration style, warm sunset light, cozy wood/lavender/purple/lime office, character identities and facial designs. References 2-9 are original identity anchors: Cedric, Carol, Jason, Irene, Madaks, Toko, Shinny, Duan, in that order. Exactly eight characters, each once. Keep the same eight adorable compact mascot designs seen in reference 1, especially original eyes, costumes, lower-face mask on Madaks, bubbly cyan hood Carol, iridescent hood Irene, Toko gray spiky hood and windup key, Duan blond fringe and bull hood, Shinny golden eyes and halo. Do NOT redesign characters or turn them into humans/animals. Preserve the office's architectural vocabulary: glass meeting room, sunset windows, lamps, shelves, plants, chairs, coherent separate rectangular desks.\nCRITICAL COMPOSITION FOR AN EXISTING OVERLAY UI: this is a wide 16:9 office establishing shot, about 35% farther camera than reference 1. Upper left area x0-35%, y0-40% must be calm dark lavender wall / architectural negative space for a large HTML heading. Rightmost x78-100%, y0-68% is calm room architecture/windows/shelves reserved behind a tall UI card, with NO characters or faces there. Bottom y82-100% is warm floor and low foreground furniture, with no faces, for a horizontal UI dock. Arrange all eight character faces clearly between x12-75%, y43-69%, staggered naturally in two depth rows. Their faces must remain individually readable, never overlap, never disappear behind a desk/laptop. More compact than the source, but not tiny. Irene at left-middle behind her own desk, Cedric slightly behind toward center-left, Jason center, Carol front-center-left, Madaks front-center-right, Toko and Shinny standing back-center-right, Duan at a coherent desk just left of the reserved right area. Furniture perspective impeccable: chair back behind spine, supported pelvis, desk in front of torso, separate straight desk edges and legs, natural floor contact. No twisted chair/torso, no merged furniture or extra limbs. Convey the same inviting lively office rather than a row of portraits. Small decorative FLAP COMPANY wall lettering only in the middle upper portion x42-61%, y20-32%, not in UI reserved left/right zones. This image MUST contain ONLY the illustration: NO website header, buttons, cards, captions, panels, labels, navigation or UI. Never draw the reserved zones as rectangles; make them seamless natural architecture. Preserve the artwork's attractive detail and lighting. This is an adaptation of the approved artwork to an existing interface, not a new visual design."
+  },
+  "status": "completed",
+  "reportedModel": "gpt_image_2_5"
+}

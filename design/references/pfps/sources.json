@@ -1,0 +1,46 @@
+{
+  "observedAt": "2026-09-23",
+  "method": "Images visually inspected after locating their URLs in the corresponding public X profile DOM.",
+  "profiles": [
+    {
+      "name": "Cedric",
+      "handle": "eth_cedric",
+      "src": "https://pbs.twimg.com/profile_images/2006364745146757120/O6lkkQHe.jpg"
+    },
+    {
+      "name": "Carol",
+      "handle": "carolcao_",
+      "src": "https://pbs.twimg.com/profile_images/2102293490898264064/XENb_ZLk_400x400.jpg"
+    },
+    {
+      "name": "Jason",
+      "handle": "webhogwatrs",
+      "src": "https://pbs.twimg.com/profile_images/2020389106203992064/205KDO_7_400x400.jpg"
+    },
+    {
+      "name": "Irene",
+      "handle": "irene_cc06",
+      "src": "https://pbs.twimg.com/profile_images/2077722217417502721/om7A1qVC_400x400.jpg"
+    },
+    {
+      "name": "Madaks",
+      "handle": "madaks",
+      "src": "https://pbs.twimg.com/profile_images/2019660166229045248/UI3DotIu_400x400.jpg"
+    },
+    {
+      "name": "Toko",
+      "handle": "tokoaxxx",
+      "src": "https://pbs.twimg.com/profile_images/2084993555664400384/Sm8DjNfz_400x400.jpg"
+    },
+    {
+      "name": "Shinny",
+      "handle": "shinnyflap",
+      "src": "https://pbs.twimg.com/profile_images/2089760928099405824/beY16kIr_400x400.jpg"
+    },
+    {
+      "name": "Duan",
+      "handle": "duanxiaominBNB",
+      "src": "https://pbs.twimg.com/profile_images/2084962656847622144/Q87cRcWj_400x400.jpg"
+    }
+  ]
+}

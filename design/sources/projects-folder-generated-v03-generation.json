@@ -1,0 +1,37 @@
+{
+  "provider": "Higgsfield",
+  "jobId": "6f140f8b-476b-4ad0-9c2d-dfbe160da16f",
+  "estimatedCreditsExact": 2.75,
+  "params": {
+    "model": "gpt_image_2_5",
+    "variant": "sunburst",
+    "quality": "high",
+    "resolution": "2k",
+    "count": 1,
+    "background": "transparent",
+    "aspect_ratio": "1:1",
+    "medias": [
+      {
+        "role": "image",
+        "value": "335bfbd1-a372-4e96-9465-73fff6e7afe3"
+      },
+      {
+        "role": "image",
+        "value": "3a15a099-ce1a-4b11-958e-4e6ebf322104"
+      }
+    ],
+    "prompt": "Regenerate the purple illustrated project folder from reference 1 with the FLAP COMPANY logo in reference 2 genuinely PRINTED into its front cover. This must be a newly rendered unified illustration, not a pasted logo sticker. Preserve the folder's appealing silhouette, 3/4 camera, purple #5533FF color, cream paper sheets, lime paperclip, dark handdrawn outlines and painted cartoon shading. The full brand from reference 2 comprises a butterfly-shaped purple emblem around a lime office-building motif and the exact two-line text FLAP / COMPANY. Reproduce that logo's structure and lettering faithfully; do not substitute the simple butterfly or invent a new mark. Integrate it as broad tasteful screen-printed or embossed ink across the middle of the purple cover, following its exact plane, foreshortening, shading and material. Subtle pale lavender cover printing area may be inherent to the paper stock if needed for contrast, but NO dark rectangular plaque, NO black badge, NO sticker outline, no floating graphic. Logo feels designed with the folder, rich but readable. Keep lime/purple original brand colors with natural illustrated highlights. Center one isolated folder, fills 82% square, full silhouette and comfortable transparent padding. True alpha transparent background, no ground plane, no backdrop, no fake checkerboard, no surrounding objects, no watermark. Premium hand-painted 2D cartoon asset, not photograph or glossy 3D. Deliver finished production asset with integrated branding."
+  },
+  "status": "completed-integrated",
+  "purpose": "User explicitly requested regenerated artwork with naturally integrated logo, replacing rejected SVG pasted plaques.",
+  "finalPath": "apps/web/public/assets/projects-folder-generated-v03.webp",
+  "output": {
+    "format": "webp",
+    "width": 480,
+    "height": 480,
+    "channels": 4,
+    "premultiplied": true,
+    "hasAlpha": true,
+    "size": 54850
+  }
+}

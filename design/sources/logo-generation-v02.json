@@ -1,0 +1,14 @@
+{
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_5",
+  "variant": "flare",
+  "quality": "medium",
+  "resolution": "2k",
+  "jobId": "3a15a099-ce1a-4b11-958e-4e6ebf322104",
+  "referenceMediaId": "bb89e3a9-e545-466b-9d5e-b4bcd9ee7c5a",
+  "estimatedCreditsExact": 1,
+  "status": "completed",
+  "output": "assets/flap-company-logo-v02.png",
+  "notes": "PNG with alpha; two-window building. Brand hex colors requested in prompt; generated pixel colors are approximate, not color-certified vector output.",
+  "prompt": "Refine the supplied FLAP COMPANY logo into a clean production-ready flat logo. Preserve its identity and horizontal lockup: left a butterfly with two purple wings on each side of a narrow stylized office building; right the wide heavy geometric word FLAP above the widely tracked word COMPANY. EXACT TEXT: FLAP and COMPANY, no other text. Preserve the distinctive supplied FLAP letterforms. Main FLAP word and wings solid purple #5533FF; COMPANY and front facade solid chartreuse #DAFF00; narrow side face of building purple #5533FF. Use only these two solid colors with genuine transparent background; all counters/windows and space around logo must be transparent. Remove every trace of mottled texture, lighting, gradients, glow, bevel and grain. Precision vector-like edges and balanced optical alignment. Simplify the building to a robust geometric silhouette with TWO generous rectangular window cutouts instead of three tiny windows, retain modest angled top and purple side plane but no 3D rendering. Refine wing symmetry. Make COMPANY slightly bolder for small-size legibility and align width with FLAP above. One logo only, centered with modest clearspace on transparent canvas. No mockup, no presentation board, no labels, no extra icon copies. This is a faithful refinement, not a new concept."
+}

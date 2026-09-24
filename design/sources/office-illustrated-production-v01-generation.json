@@ -1,0 +1,55 @@
+{
+  "provider": "Higgsfield",
+  "model": "gpt_image_2_5",
+  "jobId": "62466c6f-f402-4a0e-8c43-cf9c4b2e5a5d",
+  "estimateCreditsExact": 2.75,
+  "params": {
+    "model": "gpt_image_2_5",
+    "variant": "sunburst",
+    "quality": "high",
+    "resolution": "2k",
+    "background": "opaque",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "medias": [
+      {
+        "role": "image",
+        "value": "8fa5e5e9-da79-44bd-855c-58ddd87049bd"
+      },
+      {
+        "role": "image",
+        "value": "6a9c1f86-a052-430c-af84-9be8067d7af7"
+      },
+      {
+        "role": "image",
+        "value": "0fc9f986-a821-4a16-bd11-96cd5e9c62dc"
+      },
+      {
+        "role": "image",
+        "value": "bab9f5a7-00df-4175-8eba-a550e85e3b20"
+      },
+      {
+        "role": "image",
+        "value": "806bd8c2-a490-4d09-9754-3654a46dd852"
+      },
+      {
+        "role": "image",
+        "value": "a232695c-e7b1-45f8-bbd4-59f690f38549"
+      },
+      {
+        "role": "image",
+        "value": "ea87388e-d01d-4359-b42d-5cf621de6d49"
+      },
+      {
+        "role": "image",
+        "value": "3d61d999-3d22-4dd9-8b13-5c89dde269c3"
+      },
+      {
+        "role": "image",
+        "value": "5dd22f03-9925-4a65-ba21-5341c0a438fb"
+      }
+    ],
+    "prompt": "Create a FINAL PRODUCTION WEBSITE BACKGROUND, derived faithfully from first reference approved website mockup. ONLY the illustrated office environment, REMOVE ALL WEBSITE UI: no navigation, no headlines, no feed panel, no bottom dock, no labels, no lettering anywhere, no logos, no emblems. Extend the underlying scene naturally into those areas. Keep exactly the same polished handdrawn 2D cartoon aesthetic, believable conventional open-plan office architecture, warm wood floor, purple rugs and furnishings, lavender walls, plants, large evening city windows, ceiling pendant lamps, glass meeting room rear-right. Wide inviting three-quarter camera, whole office visible. The top left wall/ceiling should be calm dark plum negative space so real HTML headline can later overlay it; rightmost 23 percent low-detail background for real feed panel overlay. All important illustrated employees belong within central 70 percent and lower middle. Preserve the EIGHT DISTINCT employee PFP identities using the next eight reference images in this exact order: Cedric icy blue grumpy mountain creature rear-right meeting room, Carol pink smiling creature with pale blue bubbly mushroom hood at front-left desk, Jason black face with large white eyes orange creature hood and propeller cap at left middle desk, Irene pink iridescent rainbow hood near lower-left middle, Madaks black cat hoodie with light face black mask blue drawstrings by center-left whiteboard, Toko dark windup hedgehog with red scarf at lower-right desk, Shinny golden blond hood/halo with purple outfit foreground middle, Duan black face and blond bangs inside orange-yellow bull hoodie cream horns at middle-right desk. Each character exactly once, clear faces matching supplied illustrations, coherent hands and bodies, natural work poses, intact desk objects, no duplicates, no hybrids, no extra fingers. Devices have simple abstract blank screen graphics. All office signs and whiteboards are blank solid areas with NO symbols or text; exact brand logos will be added separately in HTML. This is a rich, charming illustrated office asset, not a screenshot or UI design. No photorealism, no 3D render, no strange butterfly-shaped building. Purple #5533FF, lime #DAFF00 accent items, warm amber, soft lavender, dark plum. High quality crisp ink contours and softly painted shading. Edge to edge composition."
+  },
+  "productionPath": "apps/web/public/assets/office-scene.webp"
+}
