@@ -15,6 +15,8 @@ Open http://127.0.0.1:3100. Run `npm run lint`, `npm run typecheck` and `npm run
 
 Production imagery lives in `apps/web/public/assets`. Design references and original media stay in `design`. Development and preview run locally.
 
+Browser and home-screen icons reuse the emblem from the approved Flap Company logo. Next.js serves `apps/web/app/icon.svg`, `favicon.ico` (16/32/48px), and `apple-icon.png` (180px). Regenerate them with `node design/sources/build-favicons.mjs` after an intentional logo update.
+
 ## Public configuration
 
 Copy `apps/web/.env.example` to `apps/web/.env.local` for local configuration. The only optional variable is:
