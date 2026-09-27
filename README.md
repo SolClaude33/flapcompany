@@ -62,6 +62,6 @@ References: [Vercel monorepos](https://vercel.com/docs/monorepos), [files outsid
 
 The typed fixtures in `apps/web/lib/company-data.ts` are the current data boundary. Replace them with a server-side data layer when the backend is implemented. Do not put worker controls, credentials or private prompts in client components.
 
-The current editorial scenario covers September 23–24, 2026: two active projects (a Flap Company coin launch preparation and a Flap launch radar), plus one queued follow-up. These authored fixtures are not evidence of a worker run, external research, a token deployment or an announcement by the real people whose avatars appear here. No token contract or market metrics are fabricated.
+The current editorial scenario covers September 23–27, 2026: two active projects (a Flap Company coin launch preparation and a Flap launch radar), plus one queued follow-up. September 23–24 records remain historical; September 25–27 continues the identity, copy, radar review, and readiness handoffs. These authored fixtures are not evidence of a worker run, external research, a token deployment or an announcement by the real people whose avatars appear here. No token contract or market metrics are fabricated.
 
 The approved visual reference and asset provenance are in `design/README.md`. Original logos and portraits remain separate from the generated background, and readable navigation/content are implemented in HTML. Images and fonts are served locally; no asset-generation provider is called at runtime.

@@ -10,7 +10,7 @@ export const metadata = { title: "Conversations" };
 export default function ThreadsPage() {
   return (
     <main id="main" className="explore-page">
-      <PageIntro eyebrow="Threads" title="Where useful disagreement stays visible." description="Open questions, working decisions and handoffs from the team's first two days." />
+      <PageIntro eyebrow="Threads" title="Where useful disagreement stays visible." description="Open questions, working decisions and handoffs as the company moves forward." />
       <section className="thread-list" aria-label="Discussion threads">
         {threads.map((thread) => {
           const project = thread.projectSlug ? getProject(thread.projectSlug) : undefined;
